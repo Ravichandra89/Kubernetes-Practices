@@ -19,5 +19,4 @@ To deploy the NodeJS application on your Kubernetes cluster, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/kubernetes-nodejs-load-balancer.git
-   cd kubernetes-nodejs-load-balancer
+   git clone https://github.com/Ravichandra89/Kubernetes-Practices.git
